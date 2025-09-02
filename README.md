@@ -20,10 +20,5 @@ I have held numerous IT positions including software analyst and project managem
 
 ### Education
 
-- MSOM, IT Management, Wayne State College, 2016
+- Wayne State College
 
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
