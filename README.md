@@ -1,22 +1,21 @@
 # Hi 👋, I'm Suna Aregay
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently a freshman at wayne state college in Nebraska 
 
-- 📚 I’m studing to complete my Python certifications
+- 📚 I’m majoring in Computer Science
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 🤔 I plan to master .java, .cpp, .py, .sql
 
 - 👨🏻‍💻 Love programming and resolving problems
 
 - 🧠 I like to learn something new
 
-- 📫 How to reach me **dejohns2@wsc.edu**
-
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+- 📫 How to reach me **suareg01@wsc.edu**
 
 
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
+
+
 
 ### Education
 
