@@ -1,19 +1,20 @@
 # Hi 👋, I'm Suna Aregay
 ## About Me
 
-- 🏦 I'm currently a freshman at wayne state college in Nebraska 
+- 🏦 I'm currently a freshman at Wayne State College in Nebraska 
 
 - 📚 I’m majoring in Computer Science
 
-- 🤔 I plan to master .java, .cpp, .py, .sql
+- 🤔 I plan to master .java, .py, .sql
 
 - 👨🏻‍💻 Love programming and resolving problems
 
-- 🧠 I like to learn something new
+- 🧠 I enjoy learning new things
 
-- 📫 How to reach me **suareg01@wsc.edu**
+- 📫 How to reach me **sunakaregay@gmail.com**
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
 
