@@ -1,15 +1,15 @@
-# Hi 👋, I'm Suna Aregay
+# Hi 👋, I'm Suna 
 ## About Me
 
-- 🏦 I'm currently a freshman at Wayne State College in Nebraska 
+- 🏦 I'm currently a freshman at Wayne State College 
 
 - 📚 I’m majoring in Computer Science
 
 - 🤔 I plan to master .java, .py, .sql
 
-- 👨🏻‍💻 Love programming and resolving problems
+- 🧠 Looking to gain hands on experience and find my niche
 
-- 🧠 I enjoy learning new things
+- 👨🏻‍💻 Eager to learn and apply programming and problem-solving skills
 
 - 📫 How to reach me **sunakaregay@gmail.com**
 
