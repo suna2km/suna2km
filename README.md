@@ -1,12 +1,14 @@
 # Hi 👋, I'm Suna 
 ## About Me
-Computer Science student looking to gain hands on experience and find my niche. Eager to learn and apply programming and problem-solving skills to build and test solutions that support real-world operations.
+Computer Science student passionate about programming, problem solving and discovering where I can make the biggest impact in tech. Eager to gain hands-on experience building and testing solutions that support real-world operations.
 
--  I'm currently a freshman at Wayne State College 
+-  I'm currently a sophomore at Wayne State College 
 
 -  I’m majoring in Computer Science
 
--  I plan to master .java, .py, .sql
+-  I currently work as a NATS (Network and Technology Services) Ninja at the Service Center at WSC
+
+-  I know three programming languages .cpp, .java and .py but I really plan to master .py, .sql 
 
 -  Looking to gain hands on experience and find my niche
 
