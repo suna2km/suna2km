@@ -24,9 +24,6 @@ Some of my work includes:
 - Java OOP projects
 - Python applications
 - Portfolio website
-  
 
-## How to reach me 
-**sunakaregay@gmail.com**
 
 
